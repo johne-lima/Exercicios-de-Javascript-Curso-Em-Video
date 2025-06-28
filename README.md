@@ -1,2 +1,2 @@
-# Exercicios-de-Javascript-Curso-Em-Video
-Lista de exercícios desenvolvido no curso de Javascript do professor Gustavo Guanabara
+# Lista de exercícios do curso de JavaScript do CursoEmVideo
+Lista de exercícios desenvolvido no curso de Javascript do professor Gustavo Guanabara.
