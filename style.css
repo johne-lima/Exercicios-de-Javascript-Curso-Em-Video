@@ -14,7 +14,8 @@
   
 
   h1 {
-    color: darkgoldenrod;
+    color: rgb(18, 68, 33);
+    text-align: center;
   }
 
   img {
@@ -34,7 +35,15 @@
   }
 
   h2 {
-    color: rgb(125, 92, 8);
+    color: rgb(1, 92, 28);
+  }
+
+  h2#nome {
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    color: rgb(5, 112, 5);
   }
 
   a {
